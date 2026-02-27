@@ -1,7 +1,0 @@
-8651621071:AAH5W5FPYY5FTCjbBTclo6BsmYjH5eXjg8I
-
-Your ID : 8260483466
-
-
-
-https://api.telegram.org/bot8651621071:AAH5W5FPYY5FTCjbBTclo6BsmYjH5eXjg8I/sendMessage?chat_id=8260483466&text=Agora_Vai
